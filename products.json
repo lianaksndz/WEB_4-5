@@ -1,0 +1,187 @@
+[
+    {
+      "name": "Сумка V73",
+      "price": 900,
+      "category": "Сумки",
+      "description": "Сумка з мішковини та нейлоном",
+      "image": "V73.jpg"
+    },
+    {
+      "name": "Рюкзак Case Way",
+      "price": 400,
+      "category": "Сумки",
+      "description": "Фетровий рюкзак 40*29*12cm",
+      "image": "red.jpg"
+    },
+    {
+      "name": "Сумка Louis Vuitton",
+      "price": 1200,
+      "category": "Сумки",
+      "description": "Оригінал 30*27*20cm",
+      "image": "lv.jpg"
+    },
+    {
+      "name": "Сумка для ноутбука Kipling SUPERWORK Retro",
+      "price": 2000,
+      "category": "Сумки",
+      "description": "Дворучна сумка з відділенням для ноутбука 15'",
+      "image": "kanken.jpg"
+    },
+    {
+      "name": "Сумка Tommy Hifiger",
+      "price": 780,
+      "category": "Сумки",
+      "description": "Розмір: 22*23*15cm",
+      "image": "TH.jpg"
+    },
+    {
+      "name": "Сумка Bottega Veneta",
+      "price": 5000,
+      "category": "Сумки",
+      "description": "Блакитна шкіряна сумка. 26*17*7cm",
+      "image": "boggeta.jpg"
+    },
+    {
+      "name": "Бананка Lancaster",
+      "price": 400,
+      "category": "Сумки",
+      "description": "Зручка та стильна бананка",
+      "image": "bananka.jpg"
+    },
+   
+    {
+      "name": "Сумка Michael Cors Cora Logo Brown",
+      "price": 3000,
+      "category": "Сумки",
+      "description": "Багет.Оригінал",
+      "image": "MK.jpg"
+    },
+    {
+      "name": "Рюкзачок з Міккі Маусом Disney",
+      "price": 700,
+      "category": "Сумки",
+      "description": "Середній розмір. Супер якість",
+      "image": "mikky.jpg"
+    },
+    {
+      "name": "Сумка через плече Bree 'Punch 52'",
+      "price": 900,
+      "category": "Сумки",
+      "description": "Однотонна, чоловіча",
+      "image": "bree.jpg"
+    },
+    {
+      "name": "Бананка Vans",
+      "price": 650,
+      "category": "Сумки",
+      "description": "Більша звичайного розміру",
+      "image": "vans.jpg"
+    },
+    {
+      "name": "Сумка крос-боді",
+      "price": 350,
+      "category": "Сумки",
+      "description": "Мила, стильна, гарна сумка",
+      "image": "kros.jpg"
+    },
+    
+    {
+        "name": "Спортивний топ New Balance",
+        "price": 350,
+        "category": "Одяг",
+        "description": "Колір: сірий. Розмір: S",
+        "image": "nb.jpg"
+      },
+      {
+        "name": "Топ Bo&Tee",
+        "price": 300,
+        "category": "Одяг",
+        "description": "Колір: чорний. Розмір: S",
+        "image": "bo.jpg"
+      },
+      {
+        "name": "Топ-футболка Adidas",
+        "price": 250,
+        "category": "Одяг",
+        "description": "Колір: чорний. Розмір: XS-S",
+        "image": "adi.jpg"
+      },
+      {
+        "name": "Укорочений світшот Nike",
+        "price": 430,
+        "category": "Одяг",
+        "description": "Колір: беж. Розмір: S-L",
+        "image": "nike.jpg"
+      },
+      {
+        "name": "Футболка Levi`s",
+        "price": 350,
+        "category": "Одяг",
+        "description": "Колір: рожевий. Розмір: S-L",
+        "image": "levis.jpg"
+      },
+      {
+        "name": "Куртка демісезон Zara",
+        "price": 800,
+        "category": "Одяг",
+        "description": "Куртка з легким стьобаним ефектом. S-M",
+        "image": "zara.jpg"
+      },
+      {
+        "name": "Чоловічий лонгслів Tommy Hilfiger",
+        "price": 500,
+        "category": "Одяг",
+        "description": "2XL",
+        "image": "tommy.jpg"
+      },
+      {
+        "name": "Ролики Fila",
+        "price": 2000,
+        "category": "Взуття",
+        "description": "EU 28-32, устілка 18-20.5 Гелеві колеса",
+        "image": "roll.jpg"
+      },
+      {
+        "name": "Взуття для новонароджених TommyHilfiger",
+        "price": 300,
+        "category": "Взуття",
+        "description": "18, устілка 11 см",
+        "image": "kapth.jpg"
+      },
+      {
+        "name": "Кросівки Skechers MORENO EDERSON",
+        "price": 2000,
+        "category": "Взуття",
+        "description": "Розмір: 40",
+        "image": "skech.jpg"
+      },
+      {
+        "name": "Чоловічі топсайдери Alter&Go!",
+        "price": 1900,
+        "category": "Взуття",
+        "description": "Розмір: 43",
+        "image": "alter.jpg"
+      },
+      {
+        "name": "Кросівки, кеди унісекс NIKE SB BLZR",
+        "price": 1500,
+        "category": "Взуття",
+        "description": "42 розмір, устілка 27.5",
+        "image": "kedy.jpg"
+      },
+      {
+        "name": "Кеди Nike",
+        "price": 1300,
+        "category": "Взуття",
+        "description": "38 розмір",
+        "image": "black.jpg"
+      },
+      {
+        "name": "Кеди Converse",
+        "price": 1200,
+        "category": "Взуття",
+        "description": "Розмір 39.5",
+        "image": "conv.jpg"
+      }
+  ]
+  
